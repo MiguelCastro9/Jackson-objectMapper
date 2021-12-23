@@ -1,6 +1,6 @@
-# Visão geral
+# Overview
 
-Compreendendo a biblioteca Jackson e utilizando a classe objectMapper, para serializar um objeto Java para JSON e desserializar um JSON para objeto Java.
+Understanding the Jackson library and using the objectMapper class, to serialize a Java object to JSON and deserialize a JSON to Java object.
 
 
 
